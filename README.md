@@ -13,3 +13,5 @@ Problem 4 :- [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/descr
 Problem 5 :- [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
 Problem 6 :- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+Problem 7 :- [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
