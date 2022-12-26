@@ -15,3 +15,5 @@ Problem 5 :- [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.co
 Problem 6 :- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 Problem 7 :- [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
+
+Problem 8 :- [Jump Game](https://leetcode.com/problems/jump-game/description/)
