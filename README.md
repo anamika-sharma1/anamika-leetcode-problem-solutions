@@ -17,3 +17,5 @@ Problem 6 :- [Letter Combinations of a Phone Number](https://leetcode.com/proble
 Problem 7 :- [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/description/)
 
 Problem 8 :- [Jump Game](https://leetcode.com/problems/jump-game/description/)
+
+Problem 9 :- [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
