@@ -21,3 +21,5 @@ Problem 8 :- [Jump Game](https://leetcode.com/problems/jump-game/description/)
 Problem 9 :- [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/description/)
 
 Problem 10 :- [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
+
+Problem 11 :- [3Sum](https://leetcode.com/problems/3sum/description/)
