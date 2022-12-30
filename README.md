@@ -23,3 +23,5 @@ Problem 9 :- [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/pro
 Problem 10 :- [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/)
 
 Problem 11 :- [3Sum](https://leetcode.com/problems/3sum/description/)
+
+Problem 12 :- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
