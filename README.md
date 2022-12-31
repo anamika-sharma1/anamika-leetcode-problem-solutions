@@ -25,3 +25,5 @@ Problem 10 :- [Remove Stones to Minimize the Total](https://leetcode.com/problem
 Problem 11 :- [3Sum](https://leetcode.com/problems/3sum/description/)
 
 Problem 12 :- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)
+
+Problem 13 :- [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
