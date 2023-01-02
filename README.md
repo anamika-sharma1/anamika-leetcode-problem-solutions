@@ -29,3 +29,5 @@ Problem 12 :- [All Paths From Source to Target](https://leetcode.com/problems/al
 Problem 13 :- [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/description/)
 
 Problem 14 :- [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+
+Problem 15 :- [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
