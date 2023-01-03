@@ -31,3 +31,5 @@ Problem 13 :- [Single-Threaded CPU](https://leetcode.com/problems/single-threade
 Problem 14 :- [Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 
 Problem 15 :- [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+
+Problem 16 :- [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
