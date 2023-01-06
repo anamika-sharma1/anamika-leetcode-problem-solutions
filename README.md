@@ -37,3 +37,5 @@ Problem 16 :- [Delete Columns to Make Sorted](https://leetcode.com/problems/dele
 Problem 17 :- [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/)
 
 Problem 18 :- [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+
+Problem 19 :- [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
