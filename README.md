@@ -43,3 +43,5 @@ Problem 19 :- [Longest Repeating Character Replacement](https://leetcode.com/pro
 Problem 20 :- [Gas Station](https://leetcode.com/problems/gas-station/description/)
 
 Problem 21 :- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+
+Problem 22 :- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
