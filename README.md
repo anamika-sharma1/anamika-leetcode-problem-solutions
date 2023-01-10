@@ -45,3 +45,5 @@ Problem 20 :- [Gas Station](https://leetcode.com/problems/gas-station/descriptio
 Problem 21 :- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 
 Problem 22 :- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+
+Problem 23 :- [Same Tree](https://leetcode.com/problems/same-tree/description/)
