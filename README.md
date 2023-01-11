@@ -47,3 +47,5 @@ Problem 21 :- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-
 Problem 22 :- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 
 Problem 23 :- [Same Tree](https://leetcode.com/problems/same-tree/description/)
+
+Problem 24 :- [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)
