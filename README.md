@@ -53,3 +53,5 @@ Problem 24 :- [Count the Digits That Divide a Number](https://leetcode.com/probl
 Problem 25 :- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 
 Problem 26 :- [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
+
+Problem 27 :- [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
