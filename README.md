@@ -55,3 +55,5 @@ Problem 25 :- [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-su
 Problem 26 :- [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 
 Problem 27 :- [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
+
+Problem 28 :- [Number of Good Paths](https://leetcode.com/anamika-sharma/)
