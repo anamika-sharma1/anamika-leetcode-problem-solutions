@@ -57,3 +57,5 @@ Problem 26 :- [Is Subsequence](https://leetcode.com/problems/is-subsequence/desc
 Problem 27 :- [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 
 Problem 28 :- [Number of Good Paths](https://leetcode.com/anamika-sharma/)
+
+Problem 29 :- [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
