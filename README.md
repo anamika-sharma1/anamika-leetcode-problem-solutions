@@ -59,3 +59,5 @@ Problem 27 :- [Lexicographically Smallest Equivalent String](https://leetcode.co
 Problem 28 :- [Number of Good Paths](https://leetcode.com/anamika-sharma/)
 
 Problem 29 :- [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+
+Problem 30 :- [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/)
